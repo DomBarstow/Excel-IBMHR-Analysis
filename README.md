@@ -28,7 +28,7 @@ From examining the column headers, we can see that the those three headers, have
 Now that we have them recorded here, we can safely delete their respective columns.
 For our next step in data cleansing, we are going to perform a “Find & Replace” on the column “BusinessTravel”, several entries have “_” which we want to replace with “ “.
 
-Find and Replace.PNG
+[Find and Replace](https://github.com/DomBarstow/Excel-IBMHR-Analysis/blob/main/images/Find%20and%20Replace.PNG?raw=true)
 
 Eagle eyed readers will have also noticed the lack of any spaces in our column names, so we will also remedy this manually now.
 
