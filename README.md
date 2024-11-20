@@ -16,7 +16,7 @@ No Duplicates.PNG
 Phew, looks like our data is already in pretty good shape.
 Next, lets adjust all the column lengths so we can investigate the data more clearly:
 
-Columns Adjusted.PNG
+[Columns Adjusted](https://github.com/DomBarstow/Excel-IBMHR-Analysis/blob/main/images/Columns%20Adjusted.PNG?raw=true)
 
 Now, having investigated our column headers, it appears as though there might be some superflous columns, “EmployeeCount”, “Over18?” and “StandardHours” all seem to contain the same data for every entry. To examine, let’s apply a filter to our column headers.
 
