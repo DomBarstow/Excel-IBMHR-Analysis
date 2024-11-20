@@ -51,7 +51,7 @@ These ages would align approximately (there is some debate over the start/end po
 
 Now we have the data cleansed and organised to our liking, it is time to make our pivot tables, and create some charts:
 
-Chart.PNG
+[Charts and Pivots](https://github.com/DomBarstow/Excel-IBMHR-Analysis/blob/main/images/Chart.PNG?raw=true)
 
 Before finally organising into a dashboard, and adding some slicers:
 
