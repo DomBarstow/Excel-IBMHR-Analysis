@@ -47,7 +47,7 @@ Zoomer: 18-27
 
 These ages would align approximately (there is some debate over the start/end point of each generation) if this data was taken in 2024, and if it is fictional data, we will assume that it is.
 
-Age Bracket.PNG
+images/Age Bracket.PNG
 
 Now we have the data cleansed and organised to our liking, it is time to make our pivot tables, and create some charts:
 
