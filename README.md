@@ -55,6 +55,6 @@ Now we have the data cleansed and organised to our liking, it is time to make ou
 
 Before finally organising into a dashboard, and adding some slicers:
 
-Dashboard.PNG
+[Dashboard](https://github.com/DomBarstow/Excel-IBMHR-Analysis/blob/main/images/Dashboard.PNG?raw=true)
 
 We have now finished the project, showing how we can take the original data, cleanse it, and represent it graphically, all in excel.
