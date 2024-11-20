@@ -11,7 +11,7 @@ Next we will make a “Working Sheet”, wherein we can cleanse the “Original 
 
 First step of cleansing, we check for any duplicates in the data. Using excels handy “Remove Duplicate” feature, we have:
 
-No Duplicates.PNG
+[No Duplicates](https://github.com/DomBarstow/Excel-IBMHR-Analysis/blob/main/images/No%20Duplicates.PNG?raw=true)
 
 Phew, looks like our data is already in pretty good shape.
 Next, lets adjust all the column lengths so we can investigate the data more clearly:
