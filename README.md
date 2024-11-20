@@ -36,7 +36,7 @@ A further edit to make, is that from the original data it seems that “Daily Ra
 
 Now, let’s add currency to the “Monthly Income” column. Given that IBM in an American company, we will assume the income is in dollars. 
 
-Currency.PNG
+[Currency](https://github.com/DomBarstow/Excel-IBMHR-Analysis/blob/main/images/Currency.PNG?raw=true)
 
 Due the wide range of Age data (18-60), we also are going to create a new column, called “Age Bracket”. We will categorise each age into one of the following:
 
